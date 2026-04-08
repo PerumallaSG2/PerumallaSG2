@@ -8,7 +8,6 @@ Software Engineer building distributed backend systems focused on scalability, r
 
 **Event-Driven Payment Platform**  
 Distributed payment processing system using Kafka and Spring Boot  
-
 - Asynchronous transaction processing  
 - Idempotent APIs to prevent duplicate payments  
 - Retry and failure recovery mechanisms  
@@ -19,7 +18,6 @@ Distributed payment processing system using Kafka and Spring Boot
 ## Featured work
 
 ### Event-Driven Payment Platform
-
 Event-driven payment system inspired by real-world financial architectures.
 
 **Tech Stack**  
@@ -56,7 +54,6 @@ ELK · Prometheus · Grafana
 ---
 
 ## Experience highlights
-
 - Built Kafka pipelines handling thousands of concurrent transactions  
 - Designed idempotent systems ensuring financial transaction consistency  
 - Implemented retry and failure recovery mechanisms  
@@ -66,7 +63,6 @@ ELK · Prometheus · Grafana
 ---
 
 ## Contact
-
 LinkedIn: https://linkedin.com/in/gopiperumalla  
 Email: gopi.perumalla18@gmail.com  
 
