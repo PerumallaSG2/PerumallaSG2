@@ -12,6 +12,7 @@ Expertise in Kafka-based asynchronous systems
 Experience handling high-volume transaction processing
 Focus on fault tolerance, scalability, and reliability
 Strong interest in system design and backend architecture
+
 🚀 Featured Project
 💳 Event-Driven Payment Platform
 
@@ -45,12 +46,14 @@ CI/CD (Jenkins, GitHub Actions)
 Observability
 ELK Stack, Prometheus, Grafana
 Logging, monitoring, and performance tuning
+
 📈 Experience Highlights
 Built Kafka-based pipelines handling thousands of concurrent transactions
 Implemented idempotent processing ensuring transaction integrity
 Designed failure recovery systems improving reliability
 Optimized backend performance with 30–40% improvements
 Developed secure systems using JWT authentication and RBAC
+
 📫 Contact
 LinkedIn: https://linkedin.com/in/gopiperumalla
 Email: gopi.perumalla18@gmail.com
