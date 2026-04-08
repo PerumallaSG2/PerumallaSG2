@@ -1,59 +1,49 @@
-👋 Hi, I'm Gopi Perumalla
+Gopi Perumalla
 
-Software Engineer | Java Backend | Distributed Systems | Event-Driven Architecture
+Software Engineer building distributed backend systems with a focus on scalability, reliability, and real-world production challenges.
 
-I build scalable backend systems focused on reliability, performance, and real-world production challenges.
+Currently building
+Event-Driven Payment Platform — distributed payment processing system using Kafka and Spring Boot
+→ Handles asynchronous transactions, idempotency, and failure recovery
+Featured work
+Event-Driven Payment Platform
 
-💼 Professional Summary
+Event-driven payment system inspired by real-world financial architectures.
 
-Backend engineer with experience designing and building distributed payment systems and event-driven microservices.
+Kafka-based asynchronous pipelines
+Idempotent transaction processing
+Retry mechanisms with dead-letter queues (DLQ)
+Distributed service communication
+Designed for high-throughput systems with eventual consistency
 
-Expertise in Kafka-based asynchronous systems
-Experience handling high-volume transaction processing
-Focus on fault tolerance, scalability, and reliability
-Strong interest in system design and backend architecture
+View project
 
-🚀 Featured Project
+Stack
 
-💳 Event-Driven Payment Platform
-A distributed payment processing system inspired by real-world financial architectures.
-Tech Stack: Java, Spring Boot, Kafka, PostgreSQL, Docker
-Key Highlights
-Built event-driven payment pipelines using Kafka
-Implemented idempotent APIs to prevent duplicate transactions
-Designed retry mechanisms with dead-letter queues (DLQ)
-Enabled asynchronous service communication across microservices
-Architected for high-throughput systems with eventual consistency
+Backend
+Java · Spring Boot · Spring Security · REST APIs
 
-🔗 https://github.com/PerumallaSG2/event-driven-payment-platform
-
-🧠 Core Expertise
-Backend Engineering
-Java, Spring Boot, Spring Security
-REST APIs, Microservices Architecture
 Distributed Systems
-Apache Kafka (Producers, Consumers, Retry Topics, DLQ)
-Event-driven systems and asynchronous workflows
-Databases
-PostgreSQL, MySQL, Firestore
-Query optimization, indexing, connection pooling
+Kafka · Event-driven architecture · Async processing · DLQ
+
+Data
+PostgreSQL · MySQL · Firestore
+
 Cloud & DevOps
-AWS (EC2, S3)
-Docker, Kubernetes
-CI/CD (Jenkins, GitHub Actions)
+AWS (EC2, S3) · Docker · Kubernetes · CI/CD
+
 Observability
-ELK Stack, Prometheus, Grafana
-Logging, monitoring, and performance tuning
+ELK · Prometheus · Grafana
 
-📈 Experience Highlights
-Built Kafka-based pipelines handling thousands of concurrent transactions
-Implemented idempotent processing ensuring transaction integrity
-Designed failure recovery systems improving reliability
-Optimized backend performance with 30–40% improvements
-Developed secure systems using JWT authentication and RBAC
+Experience highlights
+Built Kafka pipelines handling thousands of transactions
+Designed idempotent systems for financial consistency
+Implemented retry & failure recovery mechanisms
+Improved backend performance by 30–40%
+Developed secure APIs using JWT and RBAC
+Contact
 
-📫 Contact
 LinkedIn: https://linkedin.com/in/gopiperumalla
 Email: gopi.perumalla18@gmail.com
 
-⭐ Building systems that scale, recover, and perform under load
+Building systems that scale, recover, and perform under load.
