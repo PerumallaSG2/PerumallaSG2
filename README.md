@@ -14,12 +14,10 @@ Focus on fault tolerance, scalability, and reliability
 Strong interest in system design and backend architecture
 
 🚀 Featured Project
+
 💳 Event-Driven Payment Platform
-
 A distributed payment processing system inspired by real-world financial architectures.
-
 Tech Stack: Java, Spring Boot, Kafka, PostgreSQL, Docker
-
 Key Highlights
 Built event-driven payment pipelines using Kafka
 Implemented idempotent APIs to prevent duplicate transactions
