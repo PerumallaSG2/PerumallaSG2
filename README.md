@@ -12,6 +12,7 @@ Strong in event-driven systems using Kafka
 Experienced in high-volume transaction processing
 Focused on fault tolerance, scalability, and system reliability
 Passionate about system design and backend performance optimization
+
 🚀 Featured Project
 💳 Event-Driven Payment Platform
 
@@ -45,16 +46,19 @@ CI/CD (Jenkins, GitHub Actions)
 Observability & Performance
 ELK Stack, Prometheus, Grafana
 Logging, monitoring, and system reliability
+
 📈 Experience Highlights
 Built Kafka-based payment pipelines handling thousands of concurrent transactions
 Implemented idempotent APIs to ensure financial transaction integrity
 Designed retry and failure recovery mechanisms improving system reliability
 Optimized backend performance with query tuning and indexing (30–40% improvements)
 Developed secure systems using JWT authentication and role-based access control
+
 📊 Current Focus
 Designing scalable distributed systems
 Improving system design and backend architecture
 Building production-ready backend services
+
 📫 Contact
 LinkedIn: https://linkedin.com/in/gopiperumalla
 Email: gopi.perumalla18@gmail.com
